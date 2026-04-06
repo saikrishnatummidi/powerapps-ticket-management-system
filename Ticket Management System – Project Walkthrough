@@ -1,0 +1,7 @@
+# Ticket Management System Project Walkthrough
+
+## 📖 Project Overview
+
+The Ticket Management System is a business application built using Microsoft Power Apps with SharePoint Online as the backend data source.
+
+The application is designed to streamline ticket creation, tracking, and resolution within an organization. It provides a centralized interface for managing tickets with real-time status updates, filtering capabilities, and KPI insights.
