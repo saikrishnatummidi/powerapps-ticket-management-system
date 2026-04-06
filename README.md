@@ -28,18 +28,6 @@ The goal of this project is to:
 - SharePoint List used as the data source
 - Stores all ticket-related information
 
-## 🗂️ Data Model (SharePoint)
-Column Name	Type	Description
-ID	Auto Number	Unique Ticket ID
-Subject	Single Line Text	Ticket title
-Description	Multi-line Text	Issue details
-Department	Choice	IT, HR, Finance
-Status	Choice	New, In Progress, On Hold, Closed
-Priority	Choice	Low, Medium, High
-Created By	Person	Ticket creator
-Date Created	Date	Ticket creation date
-Date Closed	Date	Ticket closure date
-
 
 #### 🖥️ Application Walkthrough
 ### 🔹 1. Landing Screen (Dashboard): This is the main screen of the application.
